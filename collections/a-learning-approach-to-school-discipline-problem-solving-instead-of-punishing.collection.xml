@@ -1,3 +1,81 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10443</md:content-id>  <md:title>A Learning Approach to School Discipline: Problem Solving Instead of Punishing</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>en</md:language>              <md:uuid>3974bbfa-0381-4212-9da3-3b6a39b63e1e</md:uuid>
-<md:slug>a-learning-approach-to-school-discipline-problem-solving-instead-of-punishing</md:slug>
-</metadata>  <col:content>          <col:module document="m14813"/>                                          <col:subcollection>        <md:title>Chapter 1: Creating a Safe Environment</md:title>                                <col:content>                    <col:module document="m14625"/>                            <col:module document="m14626"/>                            <col:module document="m14650"/>                            <col:module document="m14654"/>                            <col:module document="m14666"/>                            <col:module document="m14680"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 2: An Alternative Approach to discipline</md:title>                                <col:content>                    <col:module document="m14662"/>                            <col:module document="m14669"/>                            <col:module document="m14657"/>                            <col:module document="m14671"/>                            <col:module document="m14672"/>                            <col:module document="m14676"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 3: Be a Problem Solver--not a problem controller</md:title>                                <col:content>                    <col:module document="m14665"/>                            <col:module document="m14664"/>                            <col:module document="m14652"/>                            <col:module document="m14660"/>                            <col:module document="m14673"/>                            <col:module document="m14677"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 4: Model Ethical Conduct</md:title>                                <col:content>                    <col:module document="m14670"/>                            <col:module document="m14667"/>                            <col:module document="m14675"/>                            <col:module document="m14651"/>                            <col:module document="m14659"/>                            <col:module document="m14678"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 5: It is about Relationships</md:title>                                <col:content>                    <col:module document="m14663"/>                            <col:module document="m14674"/>                            <col:module document="m14668"/>                            <col:module document="m14653"/>                            <col:module document="m14661"/>                            <col:module document="m14679"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Frequently Asked Questions</md:title>                                <col:content>                    <col:module document="m14656"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>References</md:title>                                <col:content>                    <col:module document="m14628"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Angus MacNeil">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10443</md:content-id>
+    <md:title>A Learning Approach to School Discipline: Problem Solving Instead of Punishing</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3974bbfa-0381-4212-9da3-3b6a39b63e1e</md:uuid>
+    <md:slug>a-learning-approach-to-school-discipline-problem-solving-instead-of-punishing</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m14813"/>
+    <col:subcollection>
+      <md:title>Chapter 1: Creating a Safe Environment</md:title>
+      <col:content>
+        <col:module document="m14625"/>
+        <col:module document="m14626"/>
+        <col:module document="m14650"/>
+        <col:module document="m14654"/>
+        <col:module document="m14666"/>
+        <col:module document="m14680"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 2: An Alternative Approach to discipline</md:title>
+      <col:content>
+        <col:module document="m14662"/>
+        <col:module document="m14669"/>
+        <col:module document="m14657"/>
+        <col:module document="m14671"/>
+        <col:module document="m14672"/>
+        <col:module document="m14676"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 3: Be a Problem Solver--not a problem controller</md:title>
+      <col:content>
+        <col:module document="m14665"/>
+        <col:module document="m14664"/>
+        <col:module document="m14652"/>
+        <col:module document="m14660"/>
+        <col:module document="m14673"/>
+        <col:module document="m14677"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 4: Model Ethical Conduct</md:title>
+      <col:content>
+        <col:module document="m14670"/>
+        <col:module document="m14667"/>
+        <col:module document="m14675"/>
+        <col:module document="m14651"/>
+        <col:module document="m14659"/>
+        <col:module document="m14678"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 5: It is about Relationships</md:title>
+      <col:content>
+        <col:module document="m14663"/>
+        <col:module document="m14674"/>
+        <col:module document="m14668"/>
+        <col:module document="m14653"/>
+        <col:module document="m14661"/>
+        <col:module document="m14679"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Frequently Asked Questions</md:title>
+      <col:content>
+        <col:module document="m14656"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>References</md:title>
+      <col:content>
+        <col:module document="m14628"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
